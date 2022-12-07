@@ -1,7 +1,8 @@
 {
   "store_id": 7959,
   "name": "vicstemdetudo",
-  "domain": "vicstemdetudo.netlify.app",
+  "domain": "vicstemdetudo.com.br",
+  "repository": "ecomplus-stores/vicstemdetudo",
   "short_name": "vicstemdetudo",
   "description": "vicstemdetudo",
   "primary_color": "#222831",
