@@ -5,7 +5,7 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": true,
+      "full_width": false,
       "slides": [
         {
           "img": "/img/uploads/rect89.webp",
@@ -25,8 +25,8 @@
         {
           "start": "2023-05-05T03:00:00.000Z",
           "end": "2025-01-01T14:48:18.646Z",
-          "img": "/img/uploads/img-20230505-wa0011.jpg",
-          "mobile_img": "/img/uploads/img-20230505-wa0011.jpg"
+          "img": "/img/uploads/img-20230505-wa0011-1-.jpg",
+          "mobile_img": "/img/uploads/img-20230505-wa0011-1-.jpg"
         }
       ]
     },
