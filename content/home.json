@@ -8,6 +8,12 @@
       "full_width": false,
       "slides": [
         {
+          "start": "2023-05-05T14:59:51.933Z",
+          "end": "",
+          "img": "/img/uploads/img-20230505-wa0011.jpg",
+          "mobile_img": "/img/uploads/img-20230505-wa0011.jpg"
+        },
+        {
           "img": "/img/uploads/rect89.webp",
           "link": "/headset",
           "alt": "Headset banner",
@@ -21,12 +27,6 @@
           "img": "/img/uploads/banner2.webp",
           "alt": "Banner sample two",
           "mobile_img": "/img/uploads/passion.webp"
-        },
-        {
-          "start": "2023-05-05T14:55:53.899Z",
-          "end": "",
-          "img": "/img/uploads/img-20230505-wa0011-1-.jpg",
-          "mobile_img": "/img/uploads/img-20230505-wa0011-1-.jpg"
         }
       ]
     },
