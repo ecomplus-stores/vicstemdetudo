@@ -8,6 +8,12 @@
       "full_width": false,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/img-20230505-wa0011~2.jpg",
+          "mobile_img": "/img/uploads/img-20230505-wa0011~2.jpg"
+        },
+        {
           "img": "/img/uploads/rect89.webp",
           "link": "/headset",
           "alt": "Headset banner",
