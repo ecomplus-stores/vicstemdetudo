@@ -6,7 +6,14 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
-      "slides": []
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/testebanner.png",
+          "mobile_img": "/img/uploads/testebanner.png"
+        }
+      ]
     },
     {
       "type": "info-bar",
