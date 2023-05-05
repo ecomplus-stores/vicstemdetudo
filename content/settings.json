@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#fb05b0",
   "theme": {
-    "bootswatch": "ecom-beauty",
+    "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
@@ -21,6 +21,6 @@
   "secondary_color": "#e700a0",
   "icon": "/img/uploads/whatsapp-image-2022-12-22-at-09.08.49.jpeg",
   "store_id": 7959,
-  "description": "vicstemdetudo",
+  "description": "Vista-se de estilo na Vic's!\n",
   "large_icon": "/img/uploads/whatsapp-image-2022-12-22-at-09.08.49.jpeg"
 }
