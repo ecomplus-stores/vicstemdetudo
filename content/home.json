@@ -8,24 +8,12 @@
       "full_width": false,
       "slides": [
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/img-20230505-wa0011~2.jpg",
-          "mobile_img": "/img/uploads/img-20230505-wa0011~2.jpg"
-        },
-        {
           "img": "/img/uploads/rect89.webp",
           "link": "/headset",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2024-12-31T03:00:00.000Z",
           "mobile_img": "/img/uploads/headphone.webp"
-        },
-        {
-          "start": "2023-05-05T14:59:51.933Z",
-          "end": "",
-          "img": "/img/uploads/img-20230505-wa0011-1-.jpg",
-          "mobile_img": "/img/uploads/img-20230505-wa0011-1-.jpg"
         },
         {
           "start": "",
