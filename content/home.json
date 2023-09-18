@@ -22,7 +22,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-vicss.png"
+          "img": "/img/uploads/banner-vicss.png",
+          "mobile_img": "/img/uploads/banner-vics-1080-1080-px-.png"
         }
       ]
     },
