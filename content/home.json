@@ -10,20 +10,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/primavera.png",
-          "mobile_img": "/img/uploads/primavera-1080-1080-px-.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-vics.png",
-          "mobile_img": "/img/uploads/consumidor.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-vicss.png",
-          "mobile_img": "/img/uploads/banner-vics-1080-1080-px-.png"
+          "img": "/img/uploads/banner-vics-black.png",
+          "mobile_img": "/img/uploads/banner-vics-post-do-instagram-.png"
         }
       ]
     },
