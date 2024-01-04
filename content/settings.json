@@ -1,7 +1,7 @@
 {
   "domain": "vicstemdetudo.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#e41114",
+  "primary_color": "#f547a0",
   "theme": {
     "bootswatch": "minty",
     "custom": "ecom-beauty"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/whatsapp-image-2022-12-22-at-09.08.49.jpeg",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#479b0e",
+  "secondary_color": "#f4c854",
   "icon": "/img/uploads/whatsapp-image-2022-12-22-at-09.08.49.jpeg",
   "store_id": 7959,
   "description": "Vista-se de estilo na Vic's!\n",
