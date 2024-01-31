@@ -130,7 +130,6 @@ import {
       login (ecomPassport) {
         if (ecomPassport.checkAuthorization()) {
           this.localCustomer = ecomPassport.getCustomer()
-          window.location = '/'
           this.$emit('login', ecomPassport)
         }
       },
