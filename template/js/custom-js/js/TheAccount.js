@@ -22,11 +22,13 @@ import {
   import RecommendedItems from '@ecomplus/storefront-components/src/RecommendedItems.vue'
   import AAlert from '@ecomplus/storefront-components/src/AAlert.vue'
   import AccountForm from '@ecomplus/storefront-components/src/AccountForm.vue'
+  import AffiliateLink from '../components/AffiliateLink'
   
   export default {
     name: 'TheAccount',
   
     components: {
+        AffiliateLink,
       LoginBlock,
       RecommendedItems,
       AAlert,
