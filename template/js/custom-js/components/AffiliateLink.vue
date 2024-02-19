@@ -80,12 +80,12 @@ export default {
     },
 
     share () {
-      const text = 'Compre a melhor produtos na LS Protese Capilar ' +
+      const text = 'Compre melhores produtos na Vics ' +
         'com R$ 25,00 de desconto através desse link!';
       const share = async () => {
         try {
           await navigator.share({
-            title: 'LS Protese Capilar - Convite especial: Ganhe R$ 25,00',
+            title: 'Vics - Convite especial: Ganhe R$ 25,00',
             text,
             url: this.link
           })
