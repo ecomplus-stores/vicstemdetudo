@@ -80,8 +80,7 @@ export default {
     },
 
     share () {
-      const text = 'Compre melhores produtos na Vics ' +
-        'com R$ 25,00 de desconto através desse link!';
+      const text = 'Compre o melhor da moda na Vic's com R$ 25,00 de desconto através deste link!'
       const share = async () => {
         try {
           await navigator.share({
